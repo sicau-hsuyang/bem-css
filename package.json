@@ -1,7 +1,7 @@
 {
-  "name": "bem.css",
+  "name": "el-bem-css",
   "version": "0.0.1",
-  "description": "bem based style scss mixins",
+  "description": "bem based style scss mixins extract from element-ui",
   "main": "src/mixins.scss",
   "repository": {
     "type": "git",

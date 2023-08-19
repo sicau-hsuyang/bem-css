@@ -13,7 +13,7 @@ $ npm i bem.css
 使用
 
 ```scss
-@import "bem.css/scs/mixin.scss";
+@import "bem.css/src/mixin.scss";
 
 @include b(a) {
   display: flex;
