@@ -1,0 +1,16 @@
+{
+  "name": "bem.css",
+  "version": "0.0.1",
+  "description": "bem based style scss mixins",
+  "main": "src/mixins.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sicau-hsuyang/bem-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sicau-hsuyang/bem-css/issues"
+  },
+  "homepage": "https://github.com/sicau-hsuyang/bem-css#readme"
+}
